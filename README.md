@@ -10,6 +10,6 @@ Three types of interpreted language are: python, javascript and ruby
 
 | compiler          |             interpreter|
 |----------         |      ----------        |
-there is object code|there is no object code|
-|it does not translate|it translates one line 
+1.there is object code|there is no object code|
+|2.it does not translate|it translates one line 
 |one line at a time |at a time
