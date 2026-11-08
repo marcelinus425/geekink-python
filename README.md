@@ -8,6 +8,8 @@ Three examples of compiled language are: C++ programmming language, C programmin
 Three types of interpreted language are: python, javascript and ruby
 
 
-| compiler| interpreter|
-|----------|----------|
-no Objectcode|there is object code|
+| compiler          |             interpreter|
+|----------         |      ----------        |
+there is object code|there is no object code|
+|it does not translate|it translates one line 
+|one line at a time |at a time
