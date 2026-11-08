@@ -6,3 +6,8 @@ Compiler is a program that translates a high level language into machine code wh
 An interpreter translates one line at a time and then execute it, no object code is produced and so the program has to be interpreted each time it is to be run.t
 Three examples of compiled language are: C++ programmming language, C programming language and fortran 
 Three types of interpreted language are: python, javascript and ruby
+
+
+| compiler| interpreter|
+|----------|----------|
+no Objectcode|there is object code|
